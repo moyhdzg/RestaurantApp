@@ -9,9 +9,9 @@ function Header() {
         <Container>
           <Navbar.Brand href="#home">Mochomo's Pizza and Wings</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#menu">Menu</Nav.Link>
-            <Nav.Link href="#reserve">Reserve</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/menu">Menu</Nav.Link>
+            <Nav.Link href="/reservaciones">Reservaciones</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

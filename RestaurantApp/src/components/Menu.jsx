@@ -1,8 +1,14 @@
 import React from 'react'
+import Header from './Header'
+import Footer from './Footer'
 
 const Menu = () => {
   return (
-    <div>Menu</div>
+    <>
+    <Header />    
+      <h1>Menu</h1>
+    <Footer />
+  </>
   )
 }
 
