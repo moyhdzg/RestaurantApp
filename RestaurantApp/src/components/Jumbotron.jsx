@@ -18,8 +18,6 @@ const Jumbotron = () => {
                     </h1>
                 </Col>
             </Row>
-            <Row>
-            </Row>
         </Container>
     </>
 )
